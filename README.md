@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I am Moaz Hashem
+
+I am a senior-1 Computer Engineering student at Cairo University who is passionate about backend development.
 
 <!--
 **Pixels57/Pixels57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
