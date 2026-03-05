@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Moaz Hashem</h1>
-<h3 align="left">I’m a Senior 1 Computer Engineering student at Cairo University with a strong passion for backend development.</h3>
+<h3 align="left">I’m a Senior Computer Engineering student at Cairo University with a strong passion for backend development.</h3>
 <h3>Lately, I’ve been exploring various areas within computer engineering to broaden my understanding and skill set. I spend most of my time problem-solving and building projects that help me apply and deepen my knowledge of the tools and technologies I’m learning.</h3>
 <h3>- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1wI1nIM-pvsW6wQko-nUf1XmUcDopnA8j/view?usp=sharing">Here</a>
 
